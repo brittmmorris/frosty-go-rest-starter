@@ -24,11 +24,10 @@ Run the app
 ```
 
 ## 🧠 What It Does
-Calls Frosty’s /chat endpoint with a prompt
-
-Authenticates with router_id and router_key
-
-Supports routing rules like cost, performance, or none
+- Calls Frosty’s /chat endpoint with a prompt
+- Authenticates with router_id and router_key
+- Supports routing rules like cost, performance, or none
+- Handles retries, logging, and observability for you
 
 ## 💡 Example Output
 ```json
