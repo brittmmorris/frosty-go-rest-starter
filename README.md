@@ -55,4 +55,4 @@ Supports routing rules like cost, performance, or none
 ```
 ## 📎 Helpful Links
 - 🔐 [Frosty Console](https://console.gofrosty.ai)
-- 📚 [Frosty API Docs](https://docs.gofrosty.ai)
+- 📚 [Frosty API Docs](https://docs.gofrosty.ai/frosty-ai-docs/api-documentation)
