@@ -5,6 +5,10 @@
 ## ⚙️ Setup
 
 1. **Clone this repo**
+```bash
+git clone https://github.com/brittmmorris/frosty-go-rest-starter
+cd frosty-go-rest-starter
+```
 
 2. **Create a `.env` file**  
    Copy `.env.example` and fill in your Router ID and Key from the Frosty console:
